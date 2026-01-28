@@ -43,3 +43,6 @@ cmd/trivy/trivy
 
 # RPM
 *.rpm
+
+/Test/*
+/Output/*
